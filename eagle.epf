@@ -1,0 +1,27 @@
+[Eagle]
+Version="07 02 00"
+Platform="Linux"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/home/taxio/eagle/linetracer_tanaka/TB6612FNG.lbr"
+UsedLibrary="/home/taxio/eagle/nhk2015_board.git/lbr/GHconnector.lbr"
+UsedLibrary="/home/taxio/eagle-7.2.0/lbr/default/supply1.lbr"
+UsedLibrary="/home/taxio/eagle-7.2.0/lbr/default/resistor.lbr"
+UsedLibrary="/home/taxio/eagle/nhk2014_board.git/lbr/stm32f4.lbr"
+UsedLibrary="/home/taxio/eagle-7.2.0/lbr/My/MPU-9250.lbr"
+UsedLibrary="/home/taxio/eagle-7.2.0/lbr/default/atmel.lbr"
+UsedLibrary="/home/taxio/eagle/servo_air/lbr/LT3580.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="52 46 708 767"
+State=2
+Number=0
+
+[Desktop]
+Screen="1366 768"
+Window="Win_1"
